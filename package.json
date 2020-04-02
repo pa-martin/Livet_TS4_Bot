@@ -1,0 +1,28 @@
+{
+  "name": "Livet_TS4_bot",
+  "version": "1.0",
+  "description": "Livet TS4 official BOT",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Erreur: pas de test spécifié\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamlol/Livet_TS4_bot.git"
+  },
+  "author": "pamlol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pamlol/Livet_TS4_bot/issues"
+  },
+  "homepage": "https://github.com/pamlol/Livet_TS4_bot#readme",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^11.6.3",
+    "request": "^2.88.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.0.1",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7"
+  }
+}
